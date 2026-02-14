@@ -1,6 +1,6 @@
 {
-    "name": "Courier CMS Mobile",
-    "short_name": "CMS Mobile",
+    "name": "Courier CPMS Mobile",
+    "short_name": "CPMS",
     "start_url": "index.html",
     "display": "standalone",
     "background_color": "#ffffff",
@@ -19,3 +19,4 @@
     ]
 
 }
+
